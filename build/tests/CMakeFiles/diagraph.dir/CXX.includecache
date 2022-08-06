@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/boy/Documents/test_vs/include/diagraph.h
+array
+-
+algorithm
+-
+edge.h
+/home/boy/Documents/test_vs/include/edge.h
+
+/home/boy/Documents/test_vs/include/edge.h
+internal/vertex.h
+/home/boy/Documents/test_vs/include/internal/vertex.h
+
+/home/boy/Documents/test_vs/include/internal/vertex.h
+iostream
+-
+utility
+-
+
+/home/boy/Documents/test_vs/tests/main.cpp
+../include/diagraph.h
+/home/boy/Documents/test_vs/include/diagraph.h
+

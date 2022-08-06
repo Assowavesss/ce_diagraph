@@ -1,0 +1,5 @@
+/home/boy/Documents/test_vs/build/CMakeFiles/rebuild_cache.dir
+/home/boy/Documents/test_vs/build/CMakeFiles/edit_cache.dir
+/home/boy/Documents/test_vs/build/tests/CMakeFiles/rebuild_cache.dir
+/home/boy/Documents/test_vs/build/tests/CMakeFiles/edit_cache.dir
+/home/boy/Documents/test_vs/build/tests/CMakeFiles/diagraph.dir
